@@ -38,11 +38,4 @@ public String getLocation() {
 public void setLocation(String location) {
 	this.location = location;
 }
-
-
-
-
-
-
-
 }
